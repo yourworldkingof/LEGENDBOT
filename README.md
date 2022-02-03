@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yourworldkingof/LEGENDBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yourworldkingof/LEGENDBOT)
 <h1 align="center">
 <b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
 </h1>
